@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RentalSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RentalSystem.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\00281984-fd97-4f27-af5b-155f1a1f14ab_coofix_router_1602648246.jpg",
+      "PackagePath": "staticwebassets\\images\\00281984-fd97-4f27-af5b-155f1a1f14ab_coofix_router_1602648246.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\09de9928-bf61-4960-a1d2-15f2ad327955_451_MSE210CBQ_12_2efe.jpg",
+      "PackagePath": "staticwebassets\\images\\09de9928-bf61-4960-a1d2-15f2ad327955_451_MSE210CBQ_12_2efe.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\286100e1-7ade-4401-95ef-c78213631592_GE30005-1.jpg",
+      "PackagePath": "staticwebassets\\images\\286100e1-7ade-4401-95ef-c78213631592_GE30005-1.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\2c85ed81-8685-49b8-91cc-0686bde3223f_eb191cf9fe7171a0038e8fc05a16eac640dc01b9_684_6177_20.jpg",
+      "PackagePath": "staticwebassets\\images\\2c85ed81-8685-49b8-91cc-0686bde3223f_eb191cf9fe7171a0038e8fc05a16eac640dc01b9_684_6177_20.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\2d9abf7c-b68e-44b5-8116-4675bd9ef997_87eda78905db55251c73817d8e9b359a3b20fdfd_682_602269850.jpg",
+      "PackagePath": "staticwebassets\\images\\2d9abf7c-b68e-44b5-8116-4675bd9ef997_87eda78905db55251c73817d8e9b359a3b20fdfd_682_602269850.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\3bec3985-ba17-44c7-8c06-b882b7817397_OGS-SSS310-B5.jpg",
+      "PackagePath": "staticwebassets\\images\\3bec3985-ba17-44c7-8c06-b882b7817397_OGS-SSS310-B5.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\3c631170-cf61-4afb-969b-cf1626a1d92d_OGS-SSS310-B5.jpg",
+      "PackagePath": "staticwebassets\\images\\3c631170-cf61-4afb-969b-cf1626a1d92d_OGS-SSS310-B5.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\4bb5f88c-bab5-456e-9982-806b386025ba_eb191cf9fe7171a0038e8fc05a16eac640dc01b9_684_6177_20.jpg",
+      "PackagePath": "staticwebassets\\images\\4bb5f88c-bab5-456e-9982-806b386025ba_eb191cf9fe7171a0038e8fc05a16eac640dc01b9_684_6177_20.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\4eee09e3-f2b0-48fb-9529-bb9b144589d8_805a71ebd99a26a0d0eca77bab18e3fd0f1ae561_682_602335420.jpg",
+      "PackagePath": "staticwebassets\\images\\4eee09e3-f2b0-48fb-9529-bb9b144589d8_805a71ebd99a26a0d0eca77bab18e3fd0f1ae561_682_602335420.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\580469f9-ce8b-4692-909e-2de00fb0d0d3_001_1612356228.jpg",
+      "PackagePath": "staticwebassets\\images\\580469f9-ce8b-4692-909e-2de00fb0d0d3_001_1612356228.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\5eca4716-e914-4bdb-bab7-d76aedf76671_STGS9115-B5.jpg",
+      "PackagePath": "staticwebassets\\images\\5eca4716-e914-4bdb-bab7-d76aedf76671_STGS9115-B5.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\61e1b801-9a8e-47da-8c10-1d6f6defb147_OGS-SSS310-B5.jpg",
+      "PackagePath": "staticwebassets\\images\\61e1b801-9a8e-47da-8c10-1d6f6defb147_OGS-SSS310-B5.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\6504be75-65bc-4583-8c78-7c27ce54c2c0_0-601-375-05F.png",
+      "PackagePath": "staticwebassets\\images\\6504be75-65bc-4583-8c78-7c27ce54c2c0_0-601-375-05F.png"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\6c88bead-2c0d-41e9-bb50-0ac1423d4a72_1f627e50242d869e2ff4ca9a9464639877aebea4_682_601405890.jpg",
+      "PackagePath": "staticwebassets\\images\\6c88bead-2c0d-41e9-bb50-0ac1423d4a72_1f627e50242d869e2ff4ca9a9464639877aebea4_682_601405890.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\713e8c04-f846-4e44-b1ac-7151ac432fec_87b21467194cedeb7e5551b5f85033dfdea27005_682_600771850.jpg",
+      "PackagePath": "staticwebassets\\images\\713e8c04-f846-4e44-b1ac-7151ac432fec_87b21467194cedeb7e5551b5f85033dfdea27005_682_600771850.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\72abc1b4-c1c1-4474-95a4-e8a7141dcb8c_index.jpg",
+      "PackagePath": "staticwebassets\\images\\72abc1b4-c1c1-4474-95a4-e8a7141dcb8c_index.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\7fd0b84b-aa54-434b-b00d-0a3a557b0194_OGS-SSS310-B5.jpg",
+      "PackagePath": "staticwebassets\\images\\7fd0b84b-aa54-434b-b00d-0a3a557b0194_OGS-SSS310-B5.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\9c7a3a1c-8891-48b9-8400-0981658103a2_BOSCH-Heat-Gun-GHG500-2-0-601-94A-050.png",
+      "PackagePath": "staticwebassets\\images\\9c7a3a1c-8891-48b9-8400-0981658103a2_BOSCH-Heat-Gun-GHG500-2-0-601-94A-050.png"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\a5504f43-f101-4b6f-8a29-e707d54c5f6b_001_1648035517.jpg",
+      "PackagePath": "staticwebassets\\images\\a5504f43-f101-4b6f-8a29-e707d54c5f6b_001_1648035517.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\b282648b-b1b3-4960-b427-3f053bc17286_87b21467194cedeb7e5551b5f85033dfdea27005_682_600771850.jpg",
+      "PackagePath": "staticwebassets\\images\\b282648b-b1b3-4960-b427-3f053bc17286_87b21467194cedeb7e5551b5f85033dfdea27005_682_600771850.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\b9d1a367-033a-4759-b4a7-39d6c6a97be7_TS15007.jpg",
+      "PackagePath": "staticwebassets\\images\\b9d1a367-033a-4759-b4a7-39d6c6a97be7_TS15007.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\bg_img.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_img.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\c9c065c4-c74b-4b48-bc07-5cf8b37111bd_001_1612356228.jpg",
+      "PackagePath": "staticwebassets\\images\\c9c065c4-c74b-4b48-bc07-5cf8b37111bd_001_1612356228.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\caro.jpg",
+      "PackagePath": "staticwebassets\\images\\caro.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\carous.jpg",
+      "PackagePath": "staticwebassets\\images\\carous.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\carous.png",
+      "PackagePath": "staticwebassets\\images\\carous.png"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\carousel.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel1.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel2.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\carousel3.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel3.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\d566cffe-5839-4c94-bafc-aa9fec56c69b_1f627e50242d869e2ff4ca9a9464639877aebea4_682_601405890.jpg",
+      "PackagePath": "staticwebassets\\images\\d566cffe-5839-4c94-bafc-aa9fec56c69b_1f627e50242d869e2ff4ca9a9464639877aebea4_682_601405890.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\da4fd3a5-c8b3-47cc-ae1a-d4155c7b9703_index.jpg",
+      "PackagePath": "staticwebassets\\images\\da4fd3a5-c8b3-47cc-ae1a-d4155c7b9703_index.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\db91dff6-af22-476a-8db7-97dd785de343_805a71ebd99a26a0d0eca77bab18e3fd0f1ae561_682_602335420.jpg",
+      "PackagePath": "staticwebassets\\images\\db91dff6-af22-476a-8db7-97dd785de343_805a71ebd99a26a0d0eca77bab18e3fd0f1ae561_682_602335420.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\dd398ee5-5df4-48c2-81a5-42d0f5a04112_bae6df133e49fa03560f9cdb13dd1a31edac07d2_682_600767620.jpg",
+      "PackagePath": "staticwebassets\\images\\dd398ee5-5df4-48c2-81a5-42d0f5a04112_bae6df133e49fa03560f9cdb13dd1a31edac07d2_682_600767620.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\e38a3560-baa0-45f7-b2e0-b48a82331337_001_1595058242.jpg",
+      "PackagePath": "staticwebassets\\images\\e38a3560-baa0-45f7-b2e0-b48a82331337_001_1595058242.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\febf576f-deeb-40f7-aa1b-36b9d51a4c5f_87b21467194cedeb7e5551b5f85033dfdea27005_682_600771850.jpg",
+      "PackagePath": "staticwebassets\\images\\febf576f-deeb-40f7-aa1b-36b9d51a4c5f_87b21467194cedeb7e5551b5f85033dfdea27005_682_600771850.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\ffea9891-6863-4013-8a5d-46e43c8eb827_001_1643255636.jpg",
+      "PackagePath": "staticwebassets\\images\\ffea9891-6863-4013-8a5d-46e43c8eb827_001_1643255636.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\image.jpg",
+      "PackagePath": "staticwebassets\\images\\image.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\image.png",
+      "PackagePath": "staticwebassets\\images\\image.png"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\images\\img.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\logo_black.png",
+      "PackagePath": "staticwebassets\\images\\logo_black.png"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\images\\noimage.png"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\images\\user.jpg"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\RentalSystem\\RentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RentalSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RentalSystem.props",
+      "PackagePath": "build\\RentalSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RentalSystem.props",
+      "PackagePath": "buildMultiTargeting\\RentalSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RentalSystem.props",
+      "PackagePath": "buildTransitive\\RentalSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

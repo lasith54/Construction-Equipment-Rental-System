@@ -1,0 +1,102 @@
+﻿@model IEnumerable<RentalSystem.Models.Product>
+
+@{
+    ViewData["Title"] = "Home";
+
+    Pager pager = ViewBag.Pager as Pager;
+    int pageNo = pager != null ? pager.CurrentPage : 0;
+}
+
+<script>
+    function incrementValue(productId) {
+        var value = parseInt(document.getElementById('quantity_' + productId).value, 10);
+        value = isNaN(value) ? 0 : value;
+        value++;
+        document.getElementById('quantity_' + productId).value = value;
+    }
+
+    function decrementValue(productId) {
+        var value = parseInt(document.getElementById('quantity_' + productId).value, 10);
+        value = isNaN(value) ? 0 : value;
+        if (value > 0) {
+            value--;
+        }
+        document.getElementById('quantity_' + productId).value = value;
+    }
+</script>
+
+<div class="col-12 p-3">
+    <div id="carouselExampleIndicators" class="carousel slide mb-3" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner h-100">
+            <div class="carousel-item h-50 active">
+                <img src="./images/carous.jpg" class="d-block w-100 h-50" alt="construction">
+            </div>
+            <div class="carousel-item h-100">
+                <img src="./images/carousel.jpg" class="d-block w-100 h-50" alt="construction">
+            </div>
+            <div class="carousel-item h-100">
+                <img src="./images/caro.jpg" class="d-block w-100 h-50" alt="construction">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+<h5>Search Product</h5>
+<form class="justify-content-center" asp-controller="Home" asp-action="Index" method="get">
+    <div class="input-group rounded mb-3 w-50">
+        <input type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" name="SearchString" />
+        <span class="input-group-text border-0" id="search-addon">
+            <button type="submit" class="btn">
+                <i class="fas fa-search"></i>
+            </button>
+        </span>
+    </div>
+</form>
+
+<section style="background-color: #eee;">
+    <div class="container py-3">
+        <div class="row mb-4">
+            @foreach (var item in Model)
+            {
+                <div class="card mx-auto col-md-12 col-lg-3 mt-3">
+                    <img class='mx-auto img-thumbnail custom-img-size'
+                         src="../images/@item.ImageUrl"
+                         width="200" height="200"/>
+                    <div class="card-body text-center mx-auto">
+                        <div class='cvp'>
+                            <h5 class="card-title font-weight-bold">@item.Productname</h5>
+                            <p class="card-text">රු @item.Rent</p>
+                            <a asp-action="Details" asp-route-id="@item.ProductId" class="btn cart px-auto custom-btn-size btn-block">View Details</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<div class="container">
+    @if(pager.TotalPages > 0)
+    {
+        <ul class="pagination justify-content-end">
+            @for (var pge = pager.StartPage; pge <= pager.EndPage; pge++)
+            {
+                <li class="page-item @(pge == pageNo ? "active" : "")">
+                    <a class="page-link" asp-controller="Home" asp-action="Index" asp-route-pg="@pge">@pge</a>
+                </li>
+            }
+        </ul>
+    }
+</div>

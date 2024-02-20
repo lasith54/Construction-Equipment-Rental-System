@@ -1,0 +1,51 @@
+﻿@model RentalSystem.Models.User
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>Register</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="Register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-floating-sm mb-1">
+                <input asp-for="NIC" class="form-control" id="floatingNIC" placeholder="NIC">
+                <label for="floatingNIC" class="control-label"></label>
+            </div>
+            <div class="form-floating-sm mb-1">
+                <input asp-for="Firstname" class="form-control" id="floatingName" placeholder="FirstName">
+                <label for="floatingName" class="control-label"></label>
+            </div>
+            <div class="form-floating-sm mb-1">
+                <input asp-for="Lastname" class="form-control" id="floatingName" placeholder="LastName">
+                <label for="floatingName" class="control-label"></label>
+            </div>
+            <div class="form-floating-sm mb-1">
+                <input asp-for="Username" class="form-control" id="floatingName" placeholder="UserName">
+                <label for="floatingName" class="control-label"></label>
+            </div>
+            <div class="form-floating-sm mb-1">
+                <input asp-for="Email" class="form-control" id="floatingEmail" placeholder="Email">
+                <label for="floatingEmail" class="control-label"></label> 
+            </div>
+            <div class="form-floating-sm has-validation mb-1">
+                <input type="password" asp-for="Password" class="form-control" id="floatingPassword" placeholder="Password" required>
+                <label for="floatingPassword" class="control-label"></label>
+            </div>
+            <div class="form-floating-sm mb-1">
+                <input asp-for="Address" class="form-control" id="floatingAddress" placeholder="Address">
+                <label for="floatingAddress" class="control-label"></label>
+            </div>
+            <div class="form-floating-sm mb-1">
+                <input asp-for="ContactNo" class="form-control" id="floatingContactNo" placeholder="Contact No.">
+                <label for="floatingContactNo" class="control-label"></label>
+            </div>
+            <div class="form-group mb-1">
+                <input type="submit" value="Signup" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

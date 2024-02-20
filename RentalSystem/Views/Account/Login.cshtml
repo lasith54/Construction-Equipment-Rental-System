@@ -1,0 +1,82 @@
+﻿@model RentalSystem.Models.Login
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Log In</title>
+
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] - RentalSystem</title>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/RentalSystem.styles.css" asp-append-version="true" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    </head>
+    <body>
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <!-- Container wrapper -->
+                <div class="container-fluid">
+                    <a class="navbar-brand p-3" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/images/logo.png" width="150px" height="25px"/></a>
+                    <!-- Toggle button -->
+                    <button class="navbar-toggler"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#navbarRightAlignExample"
+                            aria-controls="navbarNavAltMarkup"
+                            aria-expanded="false"
+                            aria-label="Toggle navigation">
+                        <i class="fas fa-bars"></i>
+                    </button>
+            </nav>
+        </header>
+        <section class="h-100 h-custom">
+            <div class="container py-3 h-100">
+                <div class="row d-flex justify-content-center align-items-center h-100">
+                    <div class="col-lg-8 col-xl-6">
+                        <div class="card rounded-3">
+                            <img src="~/images/carousel3.jpg"
+                                    class="w-100" style="border-top-left-radius: .3rem; border-top-right-radius: .3rem;"
+                                    alt="Sample photo">
+                            <div class="card-body p-2 p-md-4">
+                                <h3 class="mb-2 pb-2 pb-md-0 mb-md-3 px-md-2">Log In</h3>
+
+                                <form class="px-md-2" asp-action="Login" method="post" accept-charset="utf-8">
+                                    @Html.HiddenFor(x => x.ReturnUrl)
+
+                                    @if (!string.IsNullOrEmpty(ViewBag.Message))
+                                    {
+                                        <span class="text-danger">
+                                            @ViewBag.Message
+                                        </span>
+                                    }
+                                    <div class="form-outline mb-2">
+                                        <label class="form-label" for="form3Example1cg">Username</label>
+                                        <input type="text" name="username" required="required" id="form3Example1cg" class="form-control form-control-lg" />
+                                    </div>
+                                    <div class="form-outline mb-2">
+                                        <label class="form-label" for="form3Example4cg">Password</label>
+                                        <input type="password" name="password" required="required" id="form3Example4cg" class="form-control form-control-lg" />
+                                    </div>
+
+                                    <button type="submit" class="btn btn-success btn-lg mb-1 center">Sign in</button>
+
+                                    <p class="text-center text-muted mt-4 mb-0">
+                                        Create an account? <a asp-controller="Users" asp-action="Create"
+                                                                    class="fw-bold text-body"><u>Register here</u></a>
+                                    </p>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </body>
+</html>

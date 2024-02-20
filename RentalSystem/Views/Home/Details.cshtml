@@ -1,0 +1,75 @@
+﻿@model RentalSystem.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<script>
+    function incrementValue(input) {
+        var value = parseInt(document.getElementById('quantity').value, 10);
+        value = isNaN(value) ? 0 : value;
+        value++;
+        document.getElementById('quantity').value = value;
+    }
+
+    function decrementValue(input) {
+        var value = parseInt(document.getElementById('quantity').value, 10);
+        value = isNaN(value) ? 0 : value;
+        if (value > 0) {
+            value--;
+        }
+        document.getElementById('quantity').value = value;
+    }
+</script>
+
+<h1>Details</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <img src="@("~/images/"+Model.ImageUrl)" asp-append-version="true" style="width:150px; height:150px;" />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Productname)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Productname)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Manufacturer)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Manufacturer)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Rent)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Rent)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+    </dl>
+
+    <div class="row align-items-center p-2">
+        <div class="col-md-2 col-2 mb-3">
+            <div class="qty-container d-flex justify-content-center">
+                <button class="qty-btn-minus btn-light" type="button" onclick="decrementValue(this)"><i class="fa fa-minus"></i></button>
+                <input type="text" name="qty" value="0" class="input-qty mx-2" id="quantity" />
+                <button class="qty-btn-plus btn-light" type="button" onclick="incrementValue(this)"><i class="fa fa-plus"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <button type="button" class="btn btn- btn-danger btn-block">RENT</button>
+</div>
